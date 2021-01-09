@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KotlinComponentesBasicos</string>
+    <string name="toggle_on">Nome ligado</string>
+    <string name="toggle_off">Nome desligado</string>
+    <string name="etxtHint">Seu nome</string>
+    <string name="atxtAutoComplete">Produto</string>
+    <string name="txtQuantidade">Quantidade</string>
+    <string name="btnAdicionar">Adicionar</string>
+    <string name="strHello">Olá</string>
+    <string name="txtRadio">Escolha um</string>
+    <string name="radioVermelho">Vermelho</string>
+    <string name="radVerde">Verde</string>
+    <string name="radAzul">Azul</string>
+    <string name="item0">Inicio</string>
+    <string name="item1">Algo mais</string>
+    <string name="item2">Tocar som</string>
+    <string name="item3">Imagens e tabs</string>
+    <string name="tab0">Árvores</string>
+    <string name="tab1">Kadara</string>
+    <string name="tab2">Asteroide</string>
+    <string name="tab3">Voeld</string>
+    <string name="extra">Só uma activity extra mesmo </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtLegado">RecyclerView (O link do GridView apontou este)</string>
+    <string name="txtListView">List view</string>
+    <string name="txtSegure">Toque e segure num item</string>
+    <string name="btnPopup">Abrir menu aqui</string>
+
+</resources>
